@@ -10,4 +10,5 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
-    - file: newchapter.md
+    - file: PA_1_useful_tricks.ipynb
+    
