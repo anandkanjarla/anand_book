@@ -3,6 +3,7 @@ root: intro.md
 
 parts:
   - caption: Contents
+    numbered: 2
     chapters:
     - file: some_content/overview.md
       sections:
