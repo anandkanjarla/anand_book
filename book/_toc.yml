@@ -4,6 +4,8 @@ root: intro.md
 parts:
  # - caption: FEM in Materials Engineering
   - caption: FEM in Materials Engineering
+    chapters:
+    - file: Introduction.md  
     numbered: 2
     chapters:
     - file: some_content/overview.md
