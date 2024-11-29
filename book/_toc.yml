@@ -2,6 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
+  - caption: FEM in Materials Engineering
   - caption: Contents
     numbered: 2
     chapters:
